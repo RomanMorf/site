@@ -252,6 +252,7 @@ body {
 
 .section {
   display: block;
+  overflow: hidden;
 }
 
 .section__container {
@@ -349,6 +350,7 @@ body {
   position: absolute;
   top: -145px;
   left: 500px;
+  overflow: hidden;
 }
 
 .block__number {
